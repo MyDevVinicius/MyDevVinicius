@@ -1,4 +1,4 @@
-# Olá! Eu soui Vinicius Nascimento 👩🏻‍💻 
+# Olá! Eu sou Vinicius Nascimento 👩🏻‍💻 
 
 **`Desenvolvedor FullStack`**
 
