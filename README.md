@@ -1,6 +1,6 @@
 # Olá! Eu sou Vinicius Nascimento 👩🏻‍💻 
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack JS`**
 
 Me chamo Vinicius Nascimento, tenho 23 anos e sou natural de Cuiabá-MT, estou cursando Análise e Desenvolvimento de Sistemas na UNIC. 
 
