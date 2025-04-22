@@ -1,0 +1,36 @@
+name: 🐍 Snake Animation
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # Gera todo dia às 03:00 UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: MyDevVinicius
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Commit e push do snake.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: snake-bot
+          author_email: snake@users.noreply.github.com
+          message: "🐍 update snake animation"
+          add: "dist/github-contribution-grid-snake.svg"
+
+      - name: Publicar no perfil
+        run: |
+          mkdir -p output
+          cp dist/github-contribution-grid-snake.svg output/github-contribution-grid-snake.svg
