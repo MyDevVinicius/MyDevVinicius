@@ -54,7 +54,9 @@
 
 ## 🐍 Snake Game dos meus commits
 
-![snake gif](https://github.com/MyDevVinicius/MyDevVinicius/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MyDevVinicius/MyDevVinicius/blob/main/dist/github-contribution-grid-snake.svg)
+
+
 
 ---
 
