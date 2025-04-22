@@ -40,11 +40,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vinicius-nascimento-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
   <a href="mailto:nascimentovrn@outlook.com">
-    <img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+</a>
   <a href="https://github.com/MyDevVinicius" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
