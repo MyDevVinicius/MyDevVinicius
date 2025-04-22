@@ -1,24 +1,25 @@
-# 👨‍💻 Olá , sou Vinicius Nascimento
+# 👋 Olá! Eu sou o Vinicius Nascimento 👨🏻‍💻  
 
-**`Desenvolvedor FullStack JS`**
+**`Desenvolvedor FullStack JavaScript`**
 
-🎓 Estudante de ADS na UNIC  
-📍 Cuiabá-MT | 23 anos  
-🚀 Apaixonado por tecnologia, café e boas interfaces
+📍 Cuiabá-MT | 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIC  
+💡 Apaixonado por tecnologia, desenvolvimento web e desafios que exigem criatividade e lógica!  
+🎯 Buscando sempre evoluir como dev e compartilhar conhecimento.
 
 ---
 
-## 🧰 Tecnologias
+## 🧰 Tecnologias que utilizo
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" title="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" title="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React"/>
-<img alt="Tailwind" title="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35px" title="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35px" title="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35px" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35px" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35px" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35px" title="Tailwind"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="35px" title="SASS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" title="Git"/>
 
 </div>
 
@@ -32,3 +33,29 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyDevVinicius&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"/>
 
 </div>
+
+---
+
+## 🌐 Me encontre por aí
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinicius-nascimento-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nascimentovrn@outlook.com">
+    <img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MyDevVinicius" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Game dos meus commits
+
+![snake gif](https://github.com/MyDevVinicius/MyDevVinicius/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ✨ Obrigado por visitar meu perfil!
