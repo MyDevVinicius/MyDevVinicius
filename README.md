@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack JavaScript`**
 
-📍 Cuiabá-MT | 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIC  
+📍 Cuiabá-MT | 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIDERP
 💡 Apaixonado por tecnologia, desenvolvimento web e desafios que exigem criatividade e lógica!  
 🎯 Buscando sempre evoluir como dev e compartilhar conhecimento.
 
@@ -46,7 +46,7 @@
   <a href="mailto:vnascimento.mt@gmail.com">
   <img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
 </a>
-  <a href="https://github.com/MyDevVinicius" target="_blank">
+  <a href="https://github.com/vnascimento-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -55,7 +55,7 @@
 
 ## 🐍 Snake Game dos meus commits
 
-![Snake animation](https://github.com/MyDevVinicius/MyDevVinicius/blob/main/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vnascimento-dev/vnascimento-dev/blob/main/dist/github-contribution-grid-snake.svg)
 
 
 
